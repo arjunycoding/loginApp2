@@ -1,0 +1,9 @@
+body{
+    padding:10px !important;
+}
+input{
+    width:750px !important;
+}
+.message, .error{
+    color:red;
+}
